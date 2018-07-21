@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beans>
 
-    <bean id="E" class="England" />
+    <bean id="E" class="com.simpleioc.xml.test.England" />
 
 </beans>
